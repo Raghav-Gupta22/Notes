@@ -1,5 +1,5 @@
 # Notes-App
-Offline Notes App - built using MVVM, Room DB, Live Data, Data Binding, having Unit Tests
+Offline Notes App - built using MVVM, Room DB, Live Data and Data Binding.
 
 <div align="center">
   <a href="https://drive.google.com/file/d/11BxkcuiDHmiCE76IbZ3rdrKbXpWNRvtq/view?usp=share_link">
