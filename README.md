@@ -3,7 +3,7 @@ Offline Notes App - built using MVVM, Room DB, Live Data, Data Binding, having U
 
 <div align="center">
   <a href="https://drive.google.com/file/d/11BxkcuiDHmiCE76IbZ3rdrKbXpWNRvtq/view?usp=share_link">
-    <img src="https://user-images.githubusercontent.com/62820147/172266249-abe342b6-1b0f-41b6-9889-d86a2d9e115d.png" alt="Logo" width="80" height="80">
+    <img src="https://user-images.githubusercontent.com/70028569/204106623-aedf6220-21aa-497d-8036-b5572a1e055d.png" alt="Logo" width="80" height="80">
   </a>
 </div>
 
